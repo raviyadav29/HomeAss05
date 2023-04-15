@@ -1,0 +1,21 @@
+.nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 20px;
+    
+    
+}
+#title{
+    width: 40%;
+    text-align: center;
+}
+#menu{
+    width: 60%;
+    text-align: center;
+}
+a{
+    color: white;
+    margin-right: 50px;
+    text-decoration: none;
+}
